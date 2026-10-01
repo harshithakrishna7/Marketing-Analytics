@@ -1,0 +1,10 @@
+# Ignore large binary and non-source project files
+*.pbix
+*.bak
+*.pptx
+*.zip
+*.log
+
+# OS/editor noise
+.DS_Store
+__pycache__/
